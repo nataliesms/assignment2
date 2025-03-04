@@ -1,4 +1,4 @@
-body {
+html {
     background-image: url("assets/img/shallow.png");
     background-repeat: no-repeat;
     text-align: center;
@@ -8,5 +8,6 @@ body {
 img{
 
 width: 200px;
+height: auto;
 
 }
