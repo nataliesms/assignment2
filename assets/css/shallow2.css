@@ -9,7 +9,9 @@ html {
 
 img{
 
-width: 500px;
+width: 100px;
 height:auto;
+    bottom:80vh;
+    right:80vw;
 
 }
