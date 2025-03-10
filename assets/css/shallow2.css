@@ -3,11 +3,12 @@ html {
     background-repeat: no-repeat;
     text-align: center;
     color: black;
+    text-size:50px;
   }
 
 img{
 
-width: 200px;
+width: 300px;
 height: auto;
 float: left;
 
