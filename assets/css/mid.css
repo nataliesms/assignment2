@@ -1,14 +1,14 @@
 body {
     background-image: url("../img/sea.png");
     background-repeat: no-repeat;
-    background-size: 200%;
+    background-size: 500%;
     text-align: center;
     color: black;
   }
 
 img{
 
-width: 500px;
+width: 300px;
 
 }
 
