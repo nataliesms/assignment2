@@ -1,12 +1,16 @@
 body {
     background-image: url("../img/sea.png");
     background-repeat: no-repeat;
-    background-size: 200%;
+    background-size: 100%;
     text-align: center;
     color: white;
   }
 
 
+
+.bubble {
+    width:200px;
+}
 
 .fish {
 
