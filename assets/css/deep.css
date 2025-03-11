@@ -10,12 +10,20 @@ body {
 .crab {
     width:50px;
     height:50px;
+    top:50vh;
 
 }
 
 a {
 
 left:500px;
+
+}
+
+img {
+
+    width:200px;
+    height:auto;
 
 }
 
