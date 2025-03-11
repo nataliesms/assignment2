@@ -8,12 +8,12 @@ body {
 
 
 
-.bubble {
+.bubble img{
 width: 10vw;
 
 }
 
-.fish {
+.fish img{
 
     width:300px;
     float: right;
@@ -21,7 +21,7 @@ width: 10vw;
     left: 30vw;
 }
 
-.whale {
+.whale img{
     width:1200px;
     left:500px;
     top:400PX;
