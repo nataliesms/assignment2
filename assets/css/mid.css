@@ -9,13 +9,13 @@ body {
 
 
 .bubble {
-    width:200px;
-    height:200px;
+width: 10vw;
+
 }
 
 .fish {
 
-    width:700px;
+    width:300px;
     float: right;
     position: absolute;
     left: 30vw;
