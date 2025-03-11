@@ -17,10 +17,11 @@ body {
     width:700px;
     float: right;
     position: absolute;
-    left: 50vw;
+    left: 30vw;
 }
 
 .whale {
     width:1200px;
-    left:90vw;
+    left:500px;
+    top:400PX;
 }
